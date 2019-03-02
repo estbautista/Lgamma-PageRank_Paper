@@ -1,11 +1,11 @@
 # <img src="https://latex.codecogs.com/svg.latex?\Huge&space;L^\gamma" title="" />-PageRank for Semi-Supervised Learning
 
-This repository complements our <img src="https://latex.codecogs.com/svg.latex?\normalsize&space;L^\gamma" title="" />-PageRank paper. We provide both our results reported in the paper and the code to obtain them.
+This repository complements our manuscript entitled <img src="https://latex.codecogs.com/svg.latex?\normalsize&space;L^\gamma" title="" />-PageRank for Semi-Supervised Learning by Esteban Bautista, Patrice Abry and Paulo Gonçalves (Submitted to *Applied Network Science*). The repository provides both the results reported in the paper and the code to obtain them.
 
 ## Tools
-Codes to are written in [MATLAB](https://fr.mathworks.com).
+Codes are written in [MATLAB](https://fr.mathworks.com).
 
-The studied datasets are (as cited on the article): [MNIST](http://yann.lecun.com/exdb/mnist/) [26], [Gender images](http://cmp.felk.cvut.cz/~spacelib/faces/) [27], [BBC articles](http://mlg.ucd.ie/datasets/bbc.html) [28], [Phoneme](https://www.openml.org/d/1489) [29]. They all are included in the [Datasets folder](https://github.com/estbautista/Lgamma-PageRank_Paper/tree/master/Datasets).
+The studied datasets are (as cited on the article): [MNIST](http://yann.lecun.com/exdb/mnist/) [26], [Gender images](http://cmp.felk.cvut.cz/~spacelib/faces/) [27], [BBC articles](http://mlg.ucd.ie/datasets/bbc.html) [28], [Phoneme](https://www.openml.org/d/1489) [29]. They are all included in the [Datasets folder](https://github.com/estbautista/Lgamma-PageRank_Paper/tree/master/Datasets).
 
 ## Experiments
 #### Validation of Algorithm 1 in estimation of the optimal <img src="https://latex.codecogs.com/svg.latex?\Large&space;\gamma" title="" />
