@@ -1,6 +1,8 @@
 # <img src="https://latex.codecogs.com/svg.latex?\Huge&space;L^\gamma" title="" />-PageRank for Semi-Supervised Learning
 
-This repository complements our manuscript entitled "<img src="https://latex.codecogs.com/svg.latex?\normalsize&space;L^\gamma" title="" />-*PageRank for Semi-Supervised Learning*" by Esteban Bautista, Patrice Abry and Paulo Gonçalves (Submitted to *Applied Network Science*). The repository provides both the results reported in the paper and the code to obtain them.
+This repository complements our manuscript entitled '<img src="https://latex.codecogs.com/svg.latex?\normalsize&space;L^\gamma" title="" />-_PageRank for Semi-Supervised Learning_' by Esteban Bautista, Patrice Abry and Paulo Gonçalves (Submitted to *Applied Network Science*). 
+
+The repository provides both the results reported in the paper and the code to obtain them.
 
 ## Tools
 Codes are written in [MATLAB](https://fr.mathworks.com).
