@@ -1,0 +1,15 @@
+[submodule "My-toolboxes"]
+	path = My-toolboxes
+	url = https://github.com/estbautista/My-toolboxes
+[submodule "Algorithm_evaluation/My-toolboxes"]
+	path = Algorithm_evaluation/My-toolboxes
+	url = https://github.com/estbautista/My-toolboxes
+[submodule "PlantedPartition_experiment/My-toolboxes"]
+	path = PlantedPartition_experiment/My-toolboxes
+	url = https://github.com/estbautista/My-toolboxes
+[submodule "RealWorldData_experiment/My-toolboxes"]
+	path = RealWorldData_experiment/My-toolboxes
+	url = https://github.com/estbautista/My-toolboxes
+[submodule "UnbalancedLabels_experiment/My-toolboxes"]
+	path = UnbalancedLabels_experiment/My-toolboxes
+	url = https://github.com/estbautista/My-toolboxes
